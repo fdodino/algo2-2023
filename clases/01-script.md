@@ -43,3 +43,8 @@
 ## BONUS (20 minutos)
 
 - Si hay tiempo podemos ver code coverage en la nube para la segunda clase
+
+## Solución
+
+- [Solución](01-solucion.kt)
+
